@@ -1,0 +1,12 @@
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\bin\Debug\Entities.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\bin\Debug\Entities.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\obj\Debug\Entities.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\Entities\obj\Debug\Entities.pdb
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\bin\Debug\Entities.dll
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\bin\Debug\Entities.pdb
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\obj\Debug\Entities.dll
+C:\Users\rnayyar\Desktop\BankingSystemWithDB-master\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankSystemModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BankAccount">
+    <Key>
+      <PropertyRef Name="AccountNumber" />
+    </Key>
+    <Property Name="AccountNumber" Type="Int32" Nullable="false" />
+    <Property Name="AccountType" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="AvailableBalance" Type="Double" />
+    <Property Name="CustomerName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="EmailID" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="BankSystemEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BankAccounts" EntityType="Self.BankAccount" />
+  </EntityContainer>
+</Schema>
